@@ -1,0 +1,214 @@
+{
+  "111": {
+    "name": "ParleG",
+    "price": 5,
+    "quantity": 30,
+    "manufacturing date": "09-2-2020",
+    "expiry": "01-12-2022"
+  },
+  "112": {
+    "name": "Lays",
+    "price": 10,
+    "quantity": 50,
+    " manufacturing date ": "02-03-2020",
+    "expiry": "12-12-2022"
+  },
+  "113": {
+    "name": "maggie",
+    "price": 20,
+    "quantity": 60,
+    " manufacturing date ": "09-08-2019",
+    "expiry": "13-12-2022"
+  },
+  "114": {
+    "name": "soup",
+    "price": 10,
+    "quantity": 100,
+    " manufacturing date": "12-10-2020",
+    "expiry": "22-12-2022"
+  },
+  "115": {
+    "name": "icecream",
+    "price": 15,
+    "quantity": 30,
+    " manufacturing date ": "21-10-2020",
+    "expiry": "21-12-2022"
+  },
+  "116": {
+    "name": "soyabean",
+    "price": 10,
+    "quantity": 30,
+    "manufacturing date ": "09-08-2020",
+    "expiry": "12-12-2022"
+  },
+  "117": {
+    "name": "sprite",
+    "price": 20,
+    "quantity": 20,
+    " manufacturing date ": "03-04-2020",
+    "expiry": "17-12-2022"
+  },
+  "118": {
+    "name": "lassi",
+    "price": 12,
+    "quantity": 30,
+    " manufacturing date ": "02-07-2020",
+    "expiry": "27-12-2022"
+  },
+  "119": {
+    "name": "dairymilk",
+    "price": 10,
+    "quantity": 50,
+    " manufacturing date ": "09-08-2019",
+    "expiry": "23-12-2022"
+  },
+  "120": {
+    "name": "red label",
+    "price": 20,
+    "quantity": 25,
+    " manufacturing date": "02-02-2019",
+    "expiry": "23-12-2022"
+  },
+  "121": {
+    "name": "santoor",
+    "price": 50,
+    "quantity": 20,
+    " manufacturing date ": "09-05-2019",
+    "expiry": "28-12-2022"
+  },
+  "122": {
+    "name": "badam shake",
+    "price": 20,
+    "quantity": 40,
+    " manufacturing date": “09-08-2019",
+    "expiry": "11-12-2022"
+  },
+  "123": {
+    "name": "shampoo",
+    "price": 15,
+    "quantity": 18,
+    " manufacturing date ": "01-02-2018",
+    "expiry": "08-12-2022"
+  },
+  "124": {
+    "name": "milk",
+    "price": 20,
+    "quantity": 10,
+    " manufacturing date ": "09-08-2021",
+    "expiry": "10-08-202"
+  },
+  "125": {
+    "name": "mayonnaise",
+    "price": 35,
+    "quantity": 40,
+    " manufacturing date ": "01-02-2019",
+    "expiry": "04-12-2022"
+  },
+  "126": {
+    "name": "tomato sauce",
+    "price": 15,
+    "quantity": 17,
+    " manufacturing date ": "02-04-2021",
+    "expiry": "17-12-2022"
+  },
+  "127": {
+    "name": "hair conditioner",
+    "price": 60,
+    "quantity": 30,
+    "manufacturing date": "01-02-2021",
+    "expiry": "15-12-2022"
+  },
+  "128": {
+    "name": "hairoil",
+    "price": 20,
+    "quantity": 9,
+     “manufacturing date": "02-02-2020",
+    "expiry": "14-12-2022"
+  },
+  "129": {
+    "name": "eveready cell",
+    "price": 30,
+    "quantity": 12,
+    "manufacturing date": "09-09-2020",
+    "expiry": "21-12-2022"
+  },
+  "130": {
+    "name": "goodday biscuit",
+    "price": 15,
+    "quantity": 12,
+    "manufacturing date": "09-03-2020",
+    "expiry": "08-12-2022"
+  },
+  "131": {
+    "name": "frooti",
+    "price": 10,
+    "quantity": 16,
+    "manufacturing date": "09-08-2021",
+    "expiry": "19-12-2022"
+  },
+  "132": {
+    "name": "matchbox",
+    "price": 1,
+    "quantity": 100,
+    "manufacturing date": "09-08-2020",
+    "expiry": "09-12-2022"
+  },
+  "133": {
+    "name": "mango pickle",
+    "price": 20,
+    "quantity": 5,
+    "manufacturing date": "02-04-2020",
+    "expiry": "30-12-2022"
+  },
+  "134": {
+    "name": "lolipop",
+    "price": 2,
+    "quantity": 100,
+    " manufacturing date ": "01-02-2020",
+    "expiry": "31-12-2022"
+  },
+  "135": {
+    "name": "cake",
+    "price": 10,
+    "quantity": 12,
+    " manufacturing date ": "01-02-2019",
+    "expiry": "23-12-2022"
+  },
+  "136": {
+    "name": "thumsup",
+    "price": 30,
+    "quantity": 8,
+    " manufacturing date ": "01-02-2020",
+    "expiry": "28-12-2022"
+  },
+  "137": {
+    "name": "gems",
+    "price": 5,
+    "quantity": 10,
+    "manufacturing date": "09-08-2021",
+    "expiry": "27-12-2022"
+  },
+  "138": {
+    "name": "coffee",
+    "price": 10,
+    "quantity": 20,
+   " manufacturing date ": "01-02-2020",
+    "expiry": "19-12-2022"
+  },
+  "139": {
+    "name": "tea",
+    "price": 10,
+    "quantity": 40,
+    " manufacturing date ": "09-04-2020",
+    "expiry": "20-12-2022"
+  },
+  "140": {
+    "name": "soanpapdi",
+    "price": 30,
+    "quantity": 4,
+    " manufacturing date ": "09-08-2020",
+    "expiry": "01-12-2022"
+  },
+  
+  
+}
